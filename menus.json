@@ -1,0 +1,1482 @@
+{
+  "brunch": [
+    {
+      "title": "Brunch Menu",
+      "items": [
+        {
+          "name": "Apple Fritter Chicken & Waffles",
+          "description": "Fresh apple fritter donut grilled and turned into our popular buttermilk chicken and waffles with crisp bacon, roasted pears, and melted cheddar. Served with syrup and tater tots",
+          "prices": [
+            "$21"
+          ]
+        },
+        {
+          "name": "Apple Fritter French Toast",
+          "description": "Fresh apple fritter donut made french toast style- dipped in egg and griddled, topped with a dusting of powdered sugar.",
+          "prices": [
+            "$16"
+          ]
+        },
+        {
+          "name": "Apple or Pumpkin Spice Bread Pudding French Toast",
+          "description": "Custard bread pudding with fresh baked croissants, baked cinnamon apples or pumpkin spice custard french toast style. Served with butter and syrup",
+          "prices": [
+            "$16"
+          ]
+        },
+        {
+          "name": "Bacon, Egg, and Cheddar Biscuit Sliders",
+          "description": "Scrambled eggs, crisp bacon, and melted cheddar on buttermilk biscuit. Tots",
+          "prices": [
+            "$14"
+          ]
+        },
+        {
+          "name": "Bacon, Egg, and Spinach Flatbread",
+          "description": "Over-easy eggs, sauteed spinach, crisp bacon, melted cheddar, pico de gallo, and avocado in a toasted flatbread wrap.",
+          "prices": [
+            "$16"
+          ]
+        },
+        {
+          "name": "Breakfast Burrito",
+          "description": "Flour tortilla filled with scrambled eggs, melted cheddar, salsa, sour cream, and choice of breakfast meat (turkey bacon, taylor ham, bacon, or sausage). Tots",
+          "prices": [
+            "$15"
+          ]
+        },
+        {
+          "name": "Broccoli Cheese Quiche",
+          "description": "served with tots or pasta salad",
+          "prices": [
+            "$12"
+          ]
+        },
+        {
+          "name": "Cauliflower Crust Breakfast Pizza",
+          "description": "Gluten-free thin crust 12″ cauliflower pizza with mozzarella and fresh roasted vegetables, topped off with over-easy eggs and crisp bacon.",
+          "prices": [
+            "$24"
+          ]
+        },
+        {
+          "name": "Chicken Cutlet, Broccoli Rabe, and Fresh Burrata Sandwich",
+          "description": "Chicken cutlet sandwich with sauteed broccoli rabe, fresh burrata, balsamic vinaigrette",
+          "prices": [
+            "$18"
+          ]
+        },
+        {
+          "name": "Chicken Waldorf Salad",
+          "description": "Fresh made chicken salad with apples, grapes, raisins, & walnuts with our house mayo",
+          "prices": [
+            "$17"
+          ]
+        },
+        {
+          "name": "Cookie Butter Waffles",
+          "description": "Buttermilk waffles with cookie butter, fresh sliced bananas, whipped cream, cookie butter drizzle, and crumbled biscoff cookies",
+          "prices": [
+            "$16"
+          ]
+        },
+        {
+          "name": "Cornbread Bacon Waffles",
+          "description": "Cornbread waffles with crisp bacon drizzled with spiced honey, and dusted with powdered sugar.",
+          "prices": [
+            "$15"
+          ]
+        },
+        {
+          "name": "Crisp Buttermilk Chicken and Waffles",
+          "description": "Seasoned buttermilk fried boneless chicken, topped with brown butter pear slices, crisp bacon, melted cheddar served between 2 house made buttermilk waffles",
+          "prices": [
+            "$20"
+          ]
+        },
+        {
+          "name": "Empanadas and Eggs Platter",
+          "description": "Two house-made empanadas served with over-easy eggs and side of chimichurri sauce",
+          "prices": [
+            "$14"
+          ]
+        },
+        {
+          "name": "French Toast Breakfast Sandwich",
+          "description": "Texas French toast sandwich with breakfast sausage, crisp bacon, scrambled egg, melted cheese, and warm syrup.",
+          "prices": [
+            "$17"
+          ]
+        },
+        {
+          "name": "Glazed Coffee Roll Breakfast Sandwich",
+          "description": "Bacon or Sausage, Egg, and Cheese on a fresh baked glazed coffee roll",
+          "prices": [
+            "$15"
+          ]
+        },
+        {
+          "name": "Grilled Cheese with Goat Cheese, Apples, and Crisp Bacon",
+          "description": "Fresh peaches and goat cheese with crisp bacon, and hot honey drizzle on rosemary sourdough",
+          "prices": [
+            "$16"
+          ]
+        },
+        {
+          "name": "Nutella & Banana French Toast",
+          "description": "Thick-sliced egg bread battered and griddled, topped with nutella hazelnut spread, bananas, whipped cream, and crushed fererro rocher .",
+          "prices": [
+            "$17"
+          ]
+        },
+        {
+          "name": "Pork Tamale and Eggs Platter",
+          "description": "Authentic costa rican tamale with pork and vegetable topped with over easy egg. Served with house made empanada",
+          "prices": [
+            "$18"
+          ]
+        },
+        {
+          "name": "Pound Cake French Toast",
+          "description": "Fresh baked pound cake, dipped, battered and griddled. Topped with powdered sugar with butter and syrup. Served with 2 eggs",
+          "prices": [
+            "$18"
+          ]
+        },
+        {
+          "name": "Smoked Kielbasa and Egg Skillet",
+          "description": "Fresh smoked kielbasa, scrambled eggs, crisp potatoes, onions & peppers, melted cheddar.",
+          "prices": [
+            "$17"
+          ]
+        },
+        {
+          "name": "Smoked Pulled Pork Disco Fries and Eggs",
+          "description": "Smoked BBQ pulled pork over crispy fries, melted cheddar, caramelized onions, and two over-easy eggs.",
+          "prices": [
+            "$19"
+          ]
+        },
+        {
+          "name": "Steak and Egg Burrito",
+          "description": "Marinated steak with scrambled eggs, saute onions & peppers, cheddar, salsa, sour cream, and cilantro pesto",
+          "prices": [
+            "$18"
+          ]
+        },
+        {
+          "name": "Sweet Potato Bacon Hash with Chicken Sausage",
+          "description": "Hash of sweet potato, bacon, peppers, and onions topped with over-easy eggs, grilled chicken apple sausage, avocado, and chimichurri sauce in a cast iron skillet.",
+          "prices": [
+            "$16"
+          ]
+        },
+        {
+          "name": "The Brunch Burger",
+          "description": "Two smashed patties of our custom ground beef blend of short rib and brisket on a brioche bun with melted cheese, crisp bacon, tomato, pickle, caramelized onions over-easy egg, & house sauce. Served with seasoned fries",
+          "prices": [
+            "$22"
+          ]
+        },
+        {
+          "name": "Tres Leches French Toast",
+          "description": "Thick french toast topped with fresh berries, whipped cream, tres leches cream for pouring powdered sugar dusting",
+          "prices": [
+            "$16"
+          ]
+        }
+      ]
+    }
+  ],
+  "lunch": [
+    {
+      "title": "Lunch Menu",
+      "items": [
+        {
+          "name": "Anthony’s BLT",
+          "description": "Crisp bacon with fresh arugula, goat cheese, avocado and tomato on sliced 12 grain with house herbed mayo. Served with side pasta salad",
+          "prices": [
+            "$14"
+          ]
+        },
+        {
+          "name": "Anthony’s Loaded Double Smash Bacon CheeseBurger",
+          "description": "Double patty short rib & brisket burger, american cheese, tomato, pickle, crisp bacon, caramelized onion, house sauce on brioche served with seasoned fries",
+          "prices": [
+            "$20"
+          ]
+        },
+        {
+          "name": "Beet Salad w/Crumbled Feta, Red Onion, Chick Pea",
+          "description": "Fresh sliced beets with crumbled feta, red onion, chick peas, fresh basil, balsamic & olive oil vinaigrette add grilled chicken 4.00 add grilled shrimp 8.00",
+          "prices": [
+            "$12"
+          ]
+        },
+        {
+          "name": "Caesar Salad",
+          "description": "Romaine salad with cracked pepper, house caesar dressing and croutons add grilled or crispy chicken 4.00 add grilled shrimp 8.00 add fresh grilled salmon 12.00",
+          "prices": [
+            "$8"
+          ]
+        },
+        {
+          "name": "Cajun Grilled Chicken Sandwich",
+          "description": "Grilled cajun chicken breast, lettuce, tomato, pickle, crisp bacon, avocado, house ranch dressing. Served with house made pasta salad",
+          "prices": [
+            "$15"
+          ]
+        },
+        {
+          "name": "Chicken Cutlet BLT",
+          "description": "Breaded chicken cutlet, crisp bacon, lettuce, tomato and mayo. Served with house made pasta salad",
+          "prices": [
+            "$15"
+          ]
+        },
+        {
+          "name": "Chicken Cutlet, Broccoli Rabe, Fresh Mozzarella Panini",
+          "description": "Crispy breaded chicken cutlet, sauté broccoli rabe, and fresh mozzarella",
+          "prices": [
+            "$16"
+          ]
+        },
+        {
+          "name": "Chicken Milanese Sandwich",
+          "description": "Crisp breaded chicken cutlet, arugula & tomato salad, hot cherry peppers, shaved pecorino romano, house balsamic dressing served on italian bread.",
+          "prices": [
+            "$16"
+          ]
+        },
+        {
+          "name": "Chicken or Eggplant Vodka Parmagiana Sandwich",
+          "description": "Melted mozzarella, house vodka sauce, and pecorino cheese. Served with house made pasta salad",
+          "prices": [
+            "$15"
+          ]
+        },
+        {
+          "name": "Chicken Salad Club with Avocado",
+          "description": "Fresh chicken salad with avocado, bacon, and tomato served on multi grain toast. Served with house made pasta salad",
+          "prices": [
+            "$13"
+          ]
+        },
+        {
+          "name": "Chicken Waldorf Salad",
+          "description": "With grapes, apples, raisins, and walnuts tossed with our house mayo and raspberry dressing served over greens or in a wrap",
+          "prices": [
+            "$15"
+          ]
+        },
+        {
+          "name": "Classic CheeseBurger",
+          "description": "Single short rib & brisket smash burger, tomato, pickles, american cheese, caramelized onions, house sauce. Served with seasoned fries add bacon 3.00",
+          "prices": [
+            "$12"
+          ]
+        },
+        {
+          "name": "Crispy Buttermilk Chicken & Waffles",
+          "description": "Buttermilk fried boneless chicken, crisp bacon, melted cheddar cheese, brown butter sliced pears, maple syrup drizzle",
+          "prices": [
+            "$20"
+          ]
+        },
+        {
+          "name": "Crispy Chicken Cutlet Caesar Sub",
+          "description": "Seasoned crispy chicken cutlet served on fresh baked italian bread topped with our caesar salad, cracked pepper, and pecorino cheese. Servbed with house made pasta salad",
+          "prices": [
+            "$15"
+          ]
+        },
+        {
+          "name": "Empanada Platter",
+          "description": "2 large store made empanadas served with todays side and house chimichurri",
+          "prices": [
+            "$12"
+          ]
+        },
+        {
+          "name": "Fresh Strawberry Grilled Cheese w/ Goat Cheese, & Crisp Bacon",
+          "description": "Creamy goat cheese, fresh strawberry, crisp bacon, spiced honey on 12 grain. Served with house made pasta salad",
+          "prices": [
+            "$13"
+          ]
+        },
+        {
+          "name": "Grilled Chicken and Spinach Quesadilla",
+          "description": "grilled chicken, house salsa, cheddar cheese, sauté peppers & onions, fresh spinach, sour cream.",
+          "prices": [
+            "$15"
+          ]
+        },
+        {
+          "name": "Grilled Chicken Cheesesteak Sandwich",
+          "description": "Grilled chicken with saute onions & peppers, melted cheddar, and roasted potatos. Served with house made pasta salad",
+          "prices": [
+            "$14"
+          ]
+        },
+        {
+          "name": "Heirloom Tomato Pie",
+          "description": "with caramelized onions and fontina cheese baked on top of our Flaky Pie Crust topped with over easy egg",
+          "prices": [
+            "$9.95"
+          ]
+        },
+        {
+          "name": "Hot Honey Chicken Sandwich",
+          "description": "Boneless seasoned fried chicken breast tossed with hot honey topped with house made slaw, pickles, and house dressing. Served with pasta salad",
+          "prices": [
+            "$15"
+          ]
+        },
+        {
+          "name": "Patty Melt",
+          "description": "We take our brisket short rib burger and turn it into into a grilled cheese on texas toast with caramelized onions, tomato, pickle, and house burger sauce. Served with seasoned fries",
+          "prices": [
+            "$17"
+          ]
+        },
+        {
+          "name": "Pulled Pork Grilled Cheese",
+          "description": "Smoked bbq pulled pork with caramelized onions, pickles, and cheddar cheese",
+          "prices": [
+            "$14"
+          ]
+        },
+        {
+          "name": "Southern Crispy Chicken Bacon Sandwich",
+          "description": "Buttermilk marinated crispy chicken, spices, pickles, lettuce, tomato, crisp bacon, house sauce. Served with house made pasta salad",
+          "prices": [
+            "$15"
+          ]
+        }
+      ]
+    }
+  ],
+  "dinner": [
+    {
+      "title": "Dinner Menu",
+      "items": [
+        {
+          "name": "Bavarian Soft Baked Pretzel",
+          "description": "Soft baked pretzel served with grain mustard",
+          "prices": [
+            "$10"
+          ]
+        },
+        {
+          "name": "Broccoli Cheddar Quiche",
+          "description": "Fresh broccoli and cheddar cheese baked into a flaky pie crust.",
+          "prices": [
+            "$10"
+          ]
+        },
+        {
+          "name": "Caprese Plate with Eggplant, Roasted Peppers, and Mozzarella",
+          "description": "Breaded eggplant, roasted peppers, fresh mozzarella, proscuitto di parma, . Balsamic glaze",
+          "prices": [
+            "$16"
+          ]
+        },
+        {
+          "name": "Eggplant and Sauce",
+          "description": "Breaded eggplant cutlets topped with house vodka sauce, ricotta, and pecorino.",
+          "prices": [
+            "$14"
+          ]
+        },
+        {
+          "name": "Empanada Platter",
+          "description": "3 house made empanadas with cheddar & pico, in a crisp fried dough. Ask server for todays selection",
+          "prices": [
+            "$15"
+          ]
+        },
+        {
+          "name": "Fried Ravioli w/ Tomato Basil Sauce",
+          "description": "Crisp fried ravioli served with house tomato basil sauce",
+          "prices": [
+            "$14"
+          ]
+        },
+        {
+          "name": "Meatball Parm Egg Rolls",
+          "description": "3 House-made meatballs with tomato sauce and mozzarella, egg roll style.",
+          "prices": [
+            "$15"
+          ]
+        },
+        {
+          "name": "Wedge Salad with Buttermilk Ranch Dressing",
+          "description": "Lettuce wedge, crisp bacon, toasted walnuts, crumbled bleu cheese, chopped red onion, cucumber, house-made garlic buttermilk dressing.",
+          "prices": [
+            "$14"
+          ]
+        },
+        {
+          "name": "Anthony’s Loaded Double Bacon Cheddar Smash Burger",
+          "description": "Double beef short rib & brisket burger with crisp bacon, pickles, caramelzed onions, cheddar, and house sauce. Served with seasoned fries",
+          "prices": [
+            "$22"
+          ]
+        },
+        {
+          "name": "BBQ Meatloaf with Buttermilk Mashed Potato",
+          "description": "Moms meatloaf recipe served with mash potato and gravy",
+          "prices": [
+            "$18"
+          ]
+        },
+        {
+          "name": "Butternut Squash Ravioli w/Goat Cheese & Sage Brown Butter",
+          "description": "Fresh butternut squash ravioli with brown butter, goat cheese, roasted pears, pecans,",
+          "prices": [
+            "$22"
+          ]
+        },
+        {
+          "name": "Cajun Grilled Salmon over Buttermilk Mash Potato",
+          "description": "Fresh pan roasted cajun salmon fillet served over buttermilk mash potato",
+          "prices": [
+            "$30"
+          ]
+        },
+        {
+          "name": "Cauliflower Crust Pizza with Roasted Vegetables and Pesto",
+          "description": "Gluten-free 12″ cauliflower pizza topped with mozzarella, mixed roasted vegetables, cilantro pesto (no nuts), and Pecorino Romano cheese. Add grilled chicken $4.00 Add garlic roasted shrimp $7.00",
+          "prices": [
+            "$22"
+          ]
+        },
+        {
+          "name": "Cavatelli with Italian Sausage and Broccoli Rabe",
+          "description": "Cavatelli pasta with saute broccoli rabe, italian hot & sweet sausage, garlic, olive oil, and pecorino romano cheese",
+          "prices": [
+            "$20"
+          ]
+        },
+        {
+          "name": "Cheese Ravioli Tomato Basil Sauce",
+          "description": "fresh cheese ravioli topped with our store made sauce and pecorino cheese",
+          "prices": [
+            "$15"
+          ]
+        },
+        {
+          "name": "Chicken Cutlet Giambotta with Italian Sausage",
+          "description": "Breaded chicken cutlet served with grilled hot and sweet Italian sausage, broccoli rabe, hot peppers, roasted potatoes, peppers and onions.",
+          "prices": [
+            "$28"
+          ]
+        },
+        {
+          "name": "Chicken Cutlet Milanese with Hot Cherry Peppers",
+          "description": "Thin sliced breaded chicken cutlet topped with arugula and tomato salad, hot cherry peppers, and pecorino romano. Served with pasta.",
+          "prices": [
+            "$28"
+          ]
+        },
+        {
+          "name": "Chicken Parm Alfredo with Fresh Spinach",
+          "description": "Breaded chicken cutlet, layered with melted mozzarella, fresh spinach, pecorino romano, creamy alfredo sauce. Served with pasta",
+          "prices": [
+            "$29"
+          ]
+        },
+        {
+          "name": "Chicken Parm Vodka",
+          "description": "Chicken Parmagiana with house vodka sauce and fresh mozzarella",
+          "prices": [
+            "$28"
+          ]
+        },
+        {
+          "name": "Crisp Buttermilk Chicken and Waffles",
+          "description": "Buttermilk marinated fried chicken with crisp bacon, melted cheese, roasted pears, and a drizzle of maple syrup. Served with fries",
+          "prices": [
+            "$21"
+          ]
+        },
+        {
+          "name": "Eggplant Francaise with Mozzarella & Peppers",
+          "description": "Eggplant layered with mozzarella & roasted peppers in a lemon, butter, garlic, and white wine sauce served with pasta garlic & olive oil",
+          "prices": [
+            "$26"
+          ]
+        },
+        {
+          "name": "Eggplant Parmagiana",
+          "description": "Breaded eggplant cutlets, melted mozzarella, plum tomato basil sauce, and pecorino romano. Served with pasta.",
+          "prices": [
+            "$18"
+          ]
+        },
+        {
+          "name": "Fettucini Vodka with Braised Beef Short Rib",
+          "description": "Braised beef short rib with pappardelle pasta vodka, pecorino romano and ricotta",
+          "prices": [
+            "$34"
+          ]
+        },
+        {
+          "name": "Pasta Vodka with Chicken Cutlet and Ricotta",
+          "description": "Crisp breaded chicken cutlet with house vodka sauce, pecorino romano, and ricotta over pasta.",
+          "prices": [
+            "$25"
+          ]
+        },
+        {
+          "name": "Short Rib Ravioli with Vodka Sauce",
+          "description": "Fresh ravioli stuffed with braised beef short rib and topped with house vodka sauce",
+          "prices": [
+            "$22"
+          ]
+        },
+        {
+          "name": "Spicy Rigatoni Vodka with Burrata and Crispy Chicken Cutlet",
+          "description": "Spiced calabrian chili vodka sauce, crisp prosciutto di parma, pecorino romano, and burrata",
+          "prices": [
+            "$28"
+          ]
+        },
+        {
+          "name": "Stuffed Chicken Parmagiana Vodka",
+          "description": "Breaded chicken cutlet, proscuitto di parma, mozzarella, vodka sauce, pecorino romano.",
+          "prices": [
+            "$28"
+          ]
+        },
+        {
+          "name": "Tortellini Vodka with Shrimp",
+          "description": "Cheese Tortellini, fresh shrimp with house made vodka sauce",
+          "prices": [
+            "$28"
+          ]
+        }
+      ]
+    }
+  ],
+  "cheesecake": [
+    {
+      "title": "Cheesecake",
+      "items": [
+        {
+          "name": "Apple Cider Donut Crumb",
+          "description": "Fresh apple cooked with apple cider and fall specis with a salted caramel drizzle",
+          "prices": [
+            "$71",
+            "$57",
+            "$37",
+            "$10.50"
+          ]
+        },
+        {
+          "name": "Apple Crumb Pecan",
+          "description": "Our classic NY Style Cheesecake with fresh apples and a hint of cinnamon with a brown sugar pecan crumb topping",
+          "prices": [
+            "$73",
+            "$58",
+            "$36",
+            "$10.95"
+          ]
+        },
+        {
+          "name": "Banana Pudding",
+          "description": "Our classic NY Style Cheesecake is topped with fresh made banana pudding, crushed nilla wafer cookie, and salted caramel drizzle",
+          "prices": [
+            "$74",
+            "$58",
+            "$38",
+            "$11.95"
+          ]
+        },
+        {
+          "name": "Blueberry Crumb",
+          "description": "Our classic NY Cheesecake swirled with fresh blueberry compote and cinnamon crumb topping",
+          "prices": [
+            "$72",
+            "$57",
+            "$38",
+            "$10.95"
+          ]
+        },
+        {
+          "name": "Boston Cream",
+          "description": "Vanilla cake topped with our classic NY Cheesecake and a pool of chocolate ganache",
+          "prices": [
+            "$65",
+            "$48",
+            "$32",
+            "$9.25"
+          ]
+        },
+        {
+          "name": "Brownie Explosion",
+          "description": "Chocolate Chip Brownie layer with New York Cheesecake and more brownies & chocolate ganache",
+          "prices": [
+            "$73",
+            "$57",
+            "$35",
+            "$10.95"
+          ]
+        },
+        {
+          "name": "Cannoli",
+          "description": "fresh made cannoli cream with chocolate chips tops our classic New York Cheesecake",
+          "prices": [
+            "$72",
+            "$58",
+            "$36",
+            "$10.5"
+          ]
+        },
+        {
+          "name": "Caramel Toffee Crunch",
+          "description": "Our creamy cheesecake is baked onto a brown sugar graham cracker crust made with toasted nuts, then topped off with a caramel sauce and chopped toffee",
+          "prices": [
+            "$65",
+            "$52",
+            "$32",
+            "$9.25"
+          ]
+        },
+        {
+          "name": "Carrot Cake",
+          "description": "Our carrot cake is topped with creamy NY Style Cheesecake and cream cheese frosting",
+          "prices": [
+            "$65",
+            "$52",
+            "$34",
+            "$9,95"
+          ]
+        },
+        {
+          "name": "Cherry",
+          "description": "Sweet Cherries in sauce on top of our new york style cheesecake",
+          "prices": [
+            "$65",
+            "$49",
+            "$35",
+            "$9.25"
+          ]
+        },
+        {
+          "name": "Chicken & Waffle Cheesecake",
+          "description": "Our cornbread cake base topped with southern fried chicken and buttermilk waffle bits tossed with maple syrup",
+          "prices": [
+            "$",
+            "$",
+            "$",
+            "$10.95"
+          ]
+        },
+        {
+          "name": "Cookie Butter Swirl",
+          "description": "Biscoff cookie swirl cheesecake with crushed biscoff cookies",
+          "prices": [
+            "$71",
+            "$56",
+            "$36",
+            "$10.50"
+          ]
+        },
+        {
+          "name": "Cookie Jar",
+          "description": "Homemade brown butter chocolate chip cookie dough, sugar cookie dough, biscoff, and oreo with our classic cheesecake",
+          "prices": [
+            "$72",
+            "$57",
+            "$36",
+            "$10.50"
+          ]
+        },
+        {
+          "name": "Cookie Monster",
+          "description": "Sesame Street Cookie Monster with oreo, cookie dough, chocolate chips, biscoff cookies, and funfetti sprinkles",
+          "prices": [
+            "$69",
+            "$57",
+            "$35",
+            "$10.95"
+          ]
+        },
+        {
+          "name": "Cornbread with Spiced Honey & Caramel Pecans",
+          "description": "Fresh baked cornbread topped with spiced honey cheesecake",
+          "prices": [
+            "$65",
+            "$52",
+            "$33",
+            "$9..95"
+          ]
+        },
+        {
+          "name": "Dark Chocolate Oreo Cookie",
+          "description": "Dark chocolate cheesecake with crushed oreo cookies and chocolate ganache",
+          "prices": [
+            "$67",
+            "$55",
+            "$35",
+            "$10.95"
+          ]
+        },
+        {
+          "name": "Dark Chocolate Oreo Cookie",
+          "description": "Dark chocolate cheesecake with oreo cookies and an oreo cookie crust",
+          "prices": [
+            "$64",
+            "$53",
+            "$35",
+            "$9,95"
+          ]
+        },
+        {
+          "name": "Dark Chocolate Turtle",
+          "description": "Dark chocolate cheesecake with toasted pecans and salted caramel",
+          "prices": [
+            "$67",
+            "$55",
+            "$35",
+            "$10.95"
+          ]
+        },
+        {
+          "name": "Ferrero Rocher",
+          "description": "Our classic new York cheesecake swirled with chocolate hazelnut ganache and topped with ferrero rochet chocolates. For the chocolate lovers we can make this an All chocolate cheesecake also (add 10.00)",
+          "prices": [
+            "$75",
+            "$58",
+            "$39",
+            "$10.95"
+          ]
+        },
+        {
+          "name": "Fresh Fig, Pistachio, Goat Cheese, Spiced Honey",
+          "description": "Fresh figs with roasted pistachio, goat cheese, and hot honey drizzle",
+          "prices": [
+            "$75",
+            "$58",
+            "$39",
+            "$10.95"
+          ]
+        },
+        {
+          "name": "Fresh Mango Coconut",
+          "description": "Mango puree and fresh mango with our classic New York Cheesecake topped with toasted coconut",
+          "prices": [
+            "$72",
+            "$57",
+            "$38",
+            "$10.95"
+          ]
+        },
+        {
+          "name": "Fruity Pebble Cereal Milk",
+          "description": "Graham cracker and fruity pebbles crust topped with our classic NY Cheesecake with swirl of cereal milk",
+          "prices": [
+            "$",
+            "$",
+            "$",
+            "$10.50"
+          ]
+        },
+        {
+          "name": "Funfetti",
+          "description": "Fresh baked classic NY Cheesecake mixed with funfetti sprinkles",
+          "prices": [
+            "$70",
+            "$56",
+            "$35",
+            "$10.50"
+          ]
+        },
+        {
+          "name": "Happy Birthday Funfetti",
+          "description": "Vanilla cheesecake mixed with rainbow sprinkles",
+          "prices": [
+            "$69",
+            "$55",
+            "$35",
+            "$9.95"
+          ]
+        },
+        {
+          "name": "Heath Bar",
+          "description": "Oreo cookie crust topped with our classic cheesecake and crushed heath bars",
+          "prices": [
+            "$70",
+            "$57",
+            "$36",
+            "$10.50"
+          ]
+        },
+        {
+          "name": "Italian Ricotta Blueberry",
+          "description": "Our italian ricotta cheesecake is filled with fresh blueberries and blueberry compote",
+          "prices": [
+            "$70",
+            "$57",
+            "$35",
+            "$10.95"
+          ]
+        },
+        {
+          "name": "Italian Ricotta Cheesecake",
+          "description": "Creamy sweet ricotta cheese, orange zest with graham cracker crust",
+          "prices": [
+            "$70",
+            "$55",
+            "$35",
+            "$10.50"
+          ]
+        },
+        {
+          "name": "Key Lime",
+          "description": "A layer of our classic NY Style Cheesecake and Key Lime Custard with fresh whipped cream",
+          "prices": [
+            "$70",
+            "$57",
+            "$35",
+            "$10.50"
+          ]
+        },
+        {
+          "name": "Lemon Blueberry",
+          "description": "Our classic NY cheesecake with fresh blueberry and lemon zest",
+          "prices": [
+            "$68",
+            "$55",
+            "$34",
+            "$9.95"
+          ]
+        },
+        {
+          "name": "Mousse Layer Cheesecake",
+          "description": "Layer of NY Style cheesecake and layer of chocolate mousse covered with chocolate ganache",
+          "prices": [
+            "$85",
+            "$55",
+            "$",
+            "$10.95"
+          ]
+        },
+        {
+          "name": "New York Style",
+          "description": "A classic! Rich and creamy on our buttery graham cracker crust.",
+          "prices": [
+            "$64",
+            "$49",
+            "$30",
+            "$8.95"
+          ]
+        },
+        {
+          "name": "Oreo Cookie",
+          "description": "Oreo cookie crust and crushed oreos mixed into our creamy cheeecake.",
+          "prices": [
+            "$70",
+            "$57",
+            "$35",
+            "$10.50"
+          ]
+        },
+        {
+          "name": "Peach Crumb",
+          "description": "Our classic NY style cheesecake with roasted peaches and a cinnamon crumb topping",
+          "prices": [
+            "$72",
+            "$58",
+            "$37",
+            "$10,95"
+          ]
+        },
+        {
+          "name": "Peanut Butter Butter Cup Slutty Brownie",
+          "description": "Our classic cheesecake with fudge brownie crust, chocolate chip cookie dough. oreos, and reeses peanut butter cups",
+          "prices": [
+            "$72",
+            "$58",
+            "$35",
+            "$10.95"
+          ]
+        },
+        {
+          "name": "Peanut Butter Oreo",
+          "description": "Oreo cookie crust, peanut butter swirl",
+          "prices": [
+            "$71",
+            "$58",
+            "$36",
+            "$10.95"
+          ]
+        },
+        {
+          "name": "Pistachio & Spiced Honey Cheesecake",
+          "description": "Pistachio cream swirled into our cheesecake with a drizzle of spiced honey",
+          "prices": [
+            "$68",
+            "$57",
+            "$35",
+            "$10.95"
+          ]
+        },
+        {
+          "name": "Pumpkin Cheesecake",
+          "description": "Fall is here and so is our homemade pumpkin cheesecake with fall spices",
+          "prices": [
+            "$74.00",
+            "$58.00",
+            "$38.00",
+            "$10.95"
+          ]
+        },
+        {
+          "name": "Red Velvet Swirl",
+          "description": "Red velvet cake and red velvet cake swirl",
+          "prices": [
+            "$67",
+            "$55",
+            "$35",
+            "$9.95"
+          ]
+        },
+        {
+          "name": "Rice Pudding",
+          "description": "Fresh made rice pudding and new york cheesecake with cinnamon swirl",
+          "prices": [
+            "$72",
+            "$58",
+            "$36",
+            "$10.505"
+          ]
+        },
+        {
+          "name": "Salted Caramel Pecan",
+          "description": "Our Homemade Caramel Sauce and toasted pecans on top our classic creamy cheesecake",
+          "prices": [
+            "$72",
+            "$56",
+            "$35.00",
+            "$9.95"
+          ]
+        },
+        {
+          "name": "Samoa",
+          "description": "Our version of the classic Girl Scout Cookie as a Cheesecake. Coconut, caramel, and chocolate",
+          "prices": [
+            "$68",
+            "$57",
+            "$35",
+            "$10..95"
+          ]
+        },
+        {
+          "name": "Slutty Brownie",
+          "description": "layers of chocolate chip cookie dough, brownie, and oreo cookie",
+          "prices": [
+            "$70.00",
+            "$57.00",
+            "$36.00",
+            "$10.505"
+          ]
+        },
+        {
+          "name": "Snickers",
+          "description": "Roasted peanuts mixed with salted caramel and chocolate ganache",
+          "prices": [
+            "$72.00",
+            "$57.00",
+            "$38",
+            "$10.50"
+          ]
+        },
+        {
+          "name": "Strawberry",
+          "description": "Fresh Strawberries and sauce on top of our classic cheesecake.",
+          "prices": [
+            "$69.00",
+            "$56.00",
+            "$36.00",
+            "$9.95"
+          ]
+        },
+        {
+          "name": "Sweet Potato Cinnamon",
+          "description": "Fresh baked sweet potatos with nutmeg and other spices blended througout our classic cheesecake batter",
+          "prices": [
+            "$72",
+            "$58.00",
+            "$39.00",
+            "$10.95"
+          ]
+        },
+        {
+          "name": "The “Kitchen Sink”",
+          "description": "Peanut butter chips, pretzel bits, chocolate chips, coconut and oreos all mixed with our classic cheesecake which sits on a chocolate brownie crust",
+          "prices": [
+            "$69",
+            "$53",
+            "$35",
+            "$10.95"
+          ]
+        },
+        {
+          "name": "Triple Chocolate Ganache",
+          "description": "A chocolate lover’s dream come true!",
+          "prices": [
+            "$70.00",
+            "$58.00",
+            "$36.00",
+            "$11.95"
+          ]
+        },
+        {
+          "name": "Vanilla BeanBlack and White",
+          "description": "Chocolate cheesecake layer with Vanilla cheesecake layer on top of oreo cookie crust",
+          "prices": [
+            "$72",
+            "$57",
+            "$36",
+            "$10.95"
+          ]
+        },
+        {
+          "name": "White Chocolate Raspberry",
+          "description": "Melted white chocolate and raspberry puree swirled into our creamy cheesecake",
+          "prices": [
+            "$65.00",
+            "$51.00",
+            "$32.00",
+            "$9.95"
+          ]
+        }
+      ]
+    }
+  ],
+  "catering": [
+    {
+      "title": "Appetizers/Salads",
+      "items": [
+        {
+          "name": "Arancini",
+          "description": "stuffed rice, ground beef, peas, mozzarella, and parsley. Served with vodka or tomato basil sauce",
+          "prices": [
+            "$48.00",
+            "$90.00"
+          ]
+        },
+        {
+          "name": "Balsamic Pasta Salad",
+          "description": "with olives, artichokes, red onion, fresh basil, and house balsamic dressing",
+          "prices": [
+            "$35.00",
+            "$60.00"
+          ]
+        },
+        {
+          "name": "Empanadas",
+          "description": "Chicken, beef, or pork.",
+          "prices": [
+            "$40.00",
+            "$75.00"
+          ]
+        },
+        {
+          "name": "Macaroni or Potato Salad",
+          "description": "with helmanns mayo",
+          "prices": [
+            "$30.00",
+            "$50.00"
+          ]
+        },
+        {
+          "name": "Mixed Baby Greens",
+          "description": "with dried cranberries, red onion, goat cheese, candied pecans, and our house balsamic dressing",
+          "prices": [
+            "$33.00",
+            "$45.00"
+          ]
+        },
+        {
+          "name": "Potato Croquettes",
+          "description": "Seasoned whipped potato with pecorino romano cheese and fresh parsley, dipped in egg batter and bread crumbs then fried golden brown",
+          "prices": [
+            "$45.00",
+            "$85.00"
+          ]
+        },
+        {
+          "name": "Saute Broccoli Rabe",
+          "description": "with garlic and olive oil, shaved pecorino",
+          "prices": [
+            "$40.00",
+            "$70.00"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chicken",
+      "items": [
+        {
+          "name": "Chicken Cacciatore",
+          "description": "with tomato basil sauce, peppers & onions, mushroom, garlic, olive oil, and white wine",
+          "prices": [
+            "$45.00",
+            "$85.00"
+          ]
+        },
+        {
+          "name": "Chicken Cutlet, Broccoli Rabe, and Mozzarella",
+          "description": "",
+          "prices": [
+            "$55.00",
+            "$95.00"
+          ]
+        },
+        {
+          "name": "Chicken Francaise",
+          "description": "egg battered with white wine, garlic, and butter sauce",
+          "prices": [
+            "$49.00",
+            "$89.00"
+          ]
+        },
+        {
+          "name": "Chicken Giambotta",
+          "description": "Grilled or crispy chicken with italian sausage, saute broccoli rabe, peppers, onions, and potato",
+          "prices": [
+            "$50.00",
+            "$98.00"
+          ]
+        },
+        {
+          "name": "Chicken Marsala",
+          "description": "marsala wine gravy and mushroom,",
+          "prices": [
+            "$49.00",
+            "$89.00"
+          ]
+        },
+        {
+          "name": "Chicken Parmagiana",
+          "description": "tomato basil sauce and melted mozzarella",
+          "prices": [
+            "$58.00",
+            "$105.00"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Italian Favorites",
+      "items": [
+        {
+          "name": "Braised Beef Short Ribs",
+          "description": "with carbernet, saute onions, and beef stock",
+          "prices": [
+            "$99.00",
+            "$175.00"
+          ]
+        },
+        {
+          "name": "Eggplant Francaise with Mozzarella and Peppers",
+          "description": "Lemon, garlic, and wine sauce",
+          "prices": [
+            "$50.00",
+            "$80.00"
+          ]
+        },
+        {
+          "name": "Eggplant Parmagiana",
+          "description": "tomato basil sauce and melted mozzarella",
+          "prices": [
+            "$45.00",
+            "$80.00"
+          ]
+        },
+        {
+          "name": "Eggplant, Mozzarella, Broccoli Rabe, & Roasted Peppers",
+          "description": "",
+          "prices": [
+            "$50.00",
+            "$80.00"
+          ]
+        },
+        {
+          "name": "Meatballs Marinara or Vodka",
+          "description": "",
+          "prices": [
+            "$45.00",
+            "$85.00"
+          ]
+        },
+        {
+          "name": "Sausage & Peppers",
+          "description": "with onions, garlic, and olive oil",
+          "prices": [
+            "$45.00",
+            "$79.00"
+          ]
+        },
+        {
+          "name": "Sausage & Peppers Giambotta",
+          "description": "grilled italian hot and sweet sausage, broccoli rabe, roasted potatos, garlic & olive oil",
+          "prices": [
+            "$48.00",
+            "$80.00"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Pasta",
+      "items": [
+        {
+          "name": "Baked Ziti",
+          "description": "with Ricotta, Mozzarella, and Tomato Basil or Vodka Sauce Add homemade meatballs and italian sausage 10.00 1/2 tray or 20.00 Full Tray",
+          "prices": [
+            "$50.00",
+            "$95.00"
+          ]
+        },
+        {
+          "name": "Burrata Ravioli",
+          "description": "with Vodka, Tomato Basil, or Bolognese Sauce",
+          "prices": [
+            "$45.00",
+            "$75.00"
+          ]
+        },
+        {
+          "name": "Cavatelli with Sausage and Broccoli Rabe",
+          "description": "hot and sweet sausage, saute broccoli rabe, garlic and olive oil with pecorino romano",
+          "prices": [
+            "$45.00",
+            "$80.00"
+          ]
+        },
+        {
+          "name": "Mac & Cheese",
+          "description": "Cavatappi Pasta with creamy cheese sauce",
+          "prices": [
+            "$45.00",
+            "$80.00"
+          ]
+        },
+        {
+          "name": "Mac & Cheese with Pulled Pork",
+          "description": "Cavatappi Pasta with creamy cheese sauce and smoked pulled pork and caramelized onions",
+          "prices": [
+            "$47.00",
+            "$78.00"
+          ]
+        },
+        {
+          "name": "Mac & Cheese with Shrimp",
+          "description": "Cavatappi pasta with creamy cheese sauce and garlic roasted shrimp",
+          "prices": [
+            "$55.00",
+            "$95.00"
+          ]
+        },
+        {
+          "name": "Pasta Tetrazzini",
+          "description": "Saute mushroom, shallots, and garlic in a cream sauce with white wine and pecorino",
+          "prices": [
+            "$45.00",
+            "$75.00"
+          ]
+        },
+        {
+          "name": "Pasta Tomato & Basil",
+          "description": "Plum tomato, olive oil, onion, and fresh basil",
+          "prices": [
+            "$28.00",
+            "$59.00"
+          ]
+        },
+        {
+          "name": "Pasta Vodka",
+          "description": "Rigatoni, penne, or ziti.",
+          "prices": [
+            "$45.00",
+            "$80.00"
+          ]
+        },
+        {
+          "name": "Rigatoni Bolognese",
+          "description": "meat with with ground beef and sausage, garlic, onions, and olive oil",
+          "prices": [
+            "$38.00",
+            "$69.00"
+          ]
+        },
+        {
+          "name": "Stuffed Shells or Manicotti",
+          "description": "with tomato basil or vodka sauce",
+          "prices": [
+            "$38.00",
+            "$68.00"
+          ]
+        },
+        {
+          "name": "Tortellini Alfredo",
+          "description": "Cheese tortellini with house made alfredo sauce and grated pecorino",
+          "prices": [
+            "$40.00",
+            "$75.00"
+          ]
+        }
+      ]
+    }
+  ],
+  "dessert": [
+    {
+      "title": "Dessert by the Slice",
+      "items": [
+        {
+          "name": "Apple Crumb Pie",
+          "description": "fresh baked apples topped with cinnamon crumb topping",
+          "prices": [
+            "$7.95"
+          ]
+        },
+        {
+          "name": "Apple Cider Donut Bread Pudding w/Salted Caramel",
+          "description": "Fresh baked custard with toasted apple cider donuts. Salted caramel sauce",
+          "prices": [
+            "$8.95"
+          ]
+        },
+        {
+          "name": "Black Forest Cake",
+          "description": "moist chocolate cake filled with whipped cream and cherries",
+          "prices": [
+            "$9.95"
+          ]
+        },
+        {
+          "name": "Caramel Apple Berry Streusel Cake",
+          "description": "Fresh apples, berries, and caramel crumb topping",
+          "prices": [
+            "$9.50"
+          ]
+        },
+        {
+          "name": "Chocolate Crumb Blackout Cake",
+          "description": "Moist chocolate layer cake with a rich chocolate pudding filling",
+          "prices": [
+            "$8,95"
+          ]
+        },
+        {
+          "name": "Chocolate Mousse Cake",
+          "description": "creamy chocolate mousse and moist chocolate layer cake",
+          "prices": [
+            "$9.25"
+          ]
+        },
+        {
+          "name": "Dark Chocolate Chip Layer Cake",
+          "description": "Moist dark chocolate cake with chocolate buttercream filling and chocolate chips",
+          "prices": [
+            "$9.95"
+          ]
+        },
+        {
+          "name": "Devils Food Cake with Peanut Butter Buttercream",
+          "description": "moist devils food cake with a layer of peanut butter buttercream",
+          "prices": [
+            "$9.25"
+          ]
+        },
+        {
+          "name": "Funfetti Layer Cake",
+          "description": "moist white layer cake with vanilla frosting and funfetti sprinkles",
+          "prices": [
+            "$9.25"
+          ]
+        },
+        {
+          "name": "German Chocolate Cake",
+          "description": "Layers of fresh baked chocolate cake with coconut, pecans, and chocolate",
+          "prices": [
+            "$9.25"
+          ]
+        },
+        {
+          "name": "Hostess Cupcake Layer Cake",
+          "description": "Chocolate layer cake with whipped frosting and chocolate ganache",
+          "prices": [
+            "$8.95"
+          ]
+        },
+        {
+          "name": "Spice Cake Apple Cider Tres Leches",
+          "description": "Spice cake with apple cider cooked fresh apples, fresh cinnamon whipped cream",
+          "prices": [
+            "$8.95"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cheesecake by the Slice",
+      "items": [
+        {
+          "name": "Cherry",
+          "description": "Sweet Cherries in sauce on top of our new york style cheesecake",
+          "prices": [
+            "$9.25"
+          ]
+        },
+        {
+          "name": "Italian Ricotta Cheesecake",
+          "description": "Creamy sweet ricotta cheese, orange zest with graham cracker crust",
+          "prices": [
+            "$10.50"
+          ]
+        },
+        {
+          "name": "Mousse Layer Cheesecake",
+          "description": "Layer of NY Style cheesecake and layer of chocolate mousse covered with chocolate ganache",
+          "prices": [
+            "$10.95"
+          ]
+        },
+        {
+          "name": "New York Style",
+          "description": "A classic! Rich and creamy on our buttery graham cracker crust.",
+          "prices": [
+            "$8.95"
+          ]
+        },
+        {
+          "name": "Salted Caramel Pecan",
+          "description": "Our Homemade Caramel Sauce and toasted pecans on top our classic creamy cheesecake",
+          "prices": [
+            "$9.95"
+          ]
+        },
+        {
+          "name": "Strawberry",
+          "description": "Fresh Strawberries and sauce on top of our classic cheesecake.",
+          "prices": [
+            "$9.95"
+          ]
+        },
+        {
+          "name": "Sweet Potato Cinnamon",
+          "description": "Fresh baked sweet potatos with nutmeg and other spices blended througout our classic cheesecake batter",
+          "prices": [
+            "$10.95"
+          ]
+        }
+      ]
+    }
+  ]
+}
